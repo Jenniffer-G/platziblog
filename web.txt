@@ -4,11 +4,16 @@
 		Titulo del proyecto
 	</HEADER>
 
+		<div>
+			cabecera
+		</div>
+
 	<h1>
 		Contenido de texto en el repositorio. :)
 	</h1>
 	<h2>
 		Segundo contenido repositorio. :)
+		De la familia senado
 	</h2>
 	<p>
 		subcontenido del repositorio.
@@ -16,3 +21,11 @@
 
 
 </HTML>
+
+<css>
+	#cabecera
+	{
+		color:blue;
+	}
+	
+</css>
