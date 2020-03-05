@@ -4,6 +4,10 @@
 		Titulo del proyecto
 	</HEADER>
 
+		<div>
+			cabecera
+		</div>
+
 	<h1>
 		Contenido de texto en el repositorio. :)
 	</h1>
@@ -14,3 +18,11 @@
 
 
 </HTML>
+
+<css>
+	#cabecera
+	{
+		color:blue;
+	}
+	
+</css>
